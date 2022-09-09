@@ -5,7 +5,7 @@
 //Navigate to the directory containing the FSharp.Charting.fsx file
 #I "..\packages\FSharp.Charting.0.90.13"
  
-//Read, compile and run the FSharpt.Charting.fsx file (to access the functionality of FSharp.Charting.dll)
+//Read, compile and run the FSharp.Charting.fsx file (to access the functionality of FSharp.Charting.dll)
 #load "FSharp.Charting.fsx"
  
 //Read in the FSharp.Data and FSharp.Data.TypeProviders assemblies (so we can make use of the HtmlProvider)
